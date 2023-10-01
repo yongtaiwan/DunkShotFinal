@@ -88,3 +88,10 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# Ignore Mac thumbnail files
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
