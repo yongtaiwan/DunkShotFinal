@@ -1,14 +1,14 @@
 //
 //  AppDelegate.swift
-//  DunkShotFinal
+//  TestGame
 //
-//  Created by Yongtai Wan on 10/1/23.
+//  Created by Yongtai Wan on 3/28/23.
 //
 
 import UIKit
 
 @main
-	class AppDelegate: UIResponder, UIApplicationDelegate {
+class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 

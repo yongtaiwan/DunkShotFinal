@@ -206,7 +206,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
             scoreLabel.horizontalAlignmentMode = .center
             scoreLabel.position = CGPoint(x: 0, y: 600)
         scoreLabel.setScale(2)
-            var score = 0
+        _ = 0
             addChild(scoreLabel)
         if let soundURL = Bundle.main.url(forResource: "basketsound", withExtension: "wav") {
             do {

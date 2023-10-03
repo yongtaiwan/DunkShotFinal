@@ -16,6 +16,7 @@
 		DDA1F9A82AC9ED0E0027E5BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDA1F9A72AC9ED0E0027E5BB /* Assets.xcassets */; };
 		DDA1F9AB2AC9ED0E0027E5BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDA1F9A92AC9ED0E0027E5BB /* LaunchScreen.storyboard */; };
 		DDB63D6C2AC9F02A00EC6BFC /* HomeScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB63D6B2AC9F02A00EC6BFC /* HomeScene.swift */; };
+		DDB63D6E2ACA093F00EC6BFC /* basketsound.wav in Resources */ = {isa = PBXBuildFile; fileRef = DDB63D6D2ACA093F00EC6BFC /* basketsound.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		DDA1F9A72AC9ED0E0027E5BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDA1F9AA2AC9ED0E0027E5BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDB63D6B2AC9F02A00EC6BFC /* HomeScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScene.swift; sourceTree = "<group>"; };
+		DDB63D6D2ACA093F00EC6BFC /* basketsound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = basketsound.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				DDA1F9A02AC9ED0D0027E5BB /* GameScene.swift */,
 				DDA1F9A22AC9ED0D0027E5BB /* GameViewController.swift */,
 				DDA1F9A72AC9ED0E0027E5BB /* Assets.xcassets */,
+				DDB63D6D2ACA093F00EC6BFC /* basketsound.wav */,
 				DDB63D6B2AC9F02A00EC6BFC /* HomeScene.swift */,
 				DDA1F9A42AC9ED0D0027E5BB /* Main.storyboard */,
 				DDA1F9A92AC9ED0E0027E5BB /* LaunchScreen.storyboard */,
@@ -134,6 +137,7 @@
 			files = (
 				DDA1F9A62AC9ED0D0027E5BB /* Main.storyboard in Resources */,
 				DDA1F99D2AC9ED0D0027E5BB /* GameScene.sks in Resources */,
+				DDB63D6E2ACA093F00EC6BFC /* basketsound.wav in Resources */,
 				DDA1F9A82AC9ED0E0027E5BB /* Assets.xcassets in Resources */,
 				DDA1F9AB2AC9ED0E0027E5BB /* LaunchScreen.storyboard in Resources */,
 				DDA1F99F2AC9ED0D0027E5BB /* Actions.sks in Resources */,
